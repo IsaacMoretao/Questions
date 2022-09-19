@@ -32,7 +32,7 @@ process.on('exit', () => {
     ${answers[1]}
 
     1°:
-    ${answers[1]}
+    ${answers[2]}
 
 
 
